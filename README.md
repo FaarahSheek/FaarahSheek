@@ -4,5 +4,5 @@
 - 👯 I’m looking to collaborate on impactful projects using data
 - 💬 Ask me about data science. based analysis questions
 - 📫 How to reach me: email:faarahsheek@gmail.com
-- ⚡ Fun fact: ...
+  
 
